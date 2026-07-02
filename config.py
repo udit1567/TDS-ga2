@@ -24,7 +24,7 @@ dQIDAQAB
 
 # 4. Q3: 12-Factor Config (Manually merge the variables)
 Q3_PORT = 8549
-Q3_WORKERS = 9
+Q3_WORKERS = 5
 Q3_DEBUG = False
 Q3_LOG_LEVEL = "info"
 
